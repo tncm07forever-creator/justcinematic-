@@ -1,0 +1,6 @@
+{
+  "name": "CineTrack - Box Office Analytics & Collection Intelligence",
+  "description": "Sacnilk-style real-time box office data platform with day-wise collections, theatrical rights, cast remunerations, budget breakdowns, distributor profit/loss analytics, and historical movie comparison tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
